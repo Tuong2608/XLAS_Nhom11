@@ -1,0 +1,22 @@
+# Thư viện cho đề tài Phát hiện cháy rừng trên ảnh vệ tinh
+# Cài bằng: pip install -r requirements.txt
+#
+# LƯU Ý về PyTorch + GPU (RTX 3060):
+# Dòng torch/torchvision dưới đây cài bản CPU mặc định.
+# Để dùng GPU, hãy cài theo lệnh riêng từ pytorch.org, ví dụ (CUDA 12.1):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+# rồi mới cài các thư viện còn lại.
+
+torch
+torchvision
+numpy
+pillow
+matplotlib
+scikit-learn      # cho baseline truyền thống (SVM) và các độ đo đánh giá
+opencv-python     # xử lý ảnh truyền thống ở giai đoạn 3
+kaggle            # tải dataset
+streamlit         # web app ở giai đoạn 6
+segmentation-models-pytorch  # UPerNet, SegFormer
+rasterio          # đọc file GeoTIFF đa phổ
+huggingface_hub  # tải dataset từ HuggingFace
+plotly            # web app tương tác
