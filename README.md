@@ -5,8 +5,8 @@
 
 | Thành viên | MSSV | Vai trò |
 |------------|------|---------|
-| Thành viên 1 | | |
-| Thành viên 2 | | |
+| Thành viên 1 | Trần Văn Tưởng | Nhóm trưởng |
+| Thành viên 2 | Trần Quang Toản | Thành viên |
 
 ### Giảng viên hướng dẫn
 **TS. ...**
