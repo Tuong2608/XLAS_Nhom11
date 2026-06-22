@@ -9,7 +9,7 @@
 | Thành viên 2 | Trần Quang Toản | Thành viên |
 
 ### Giảng viên hướng dẫn
-**TS. ...**
+**ThS. Võ Lê Phúc Hậu**
 
 ---
 
@@ -382,13 +382,13 @@ Sau khi chạy các script, kết quả sẽ được lưu trong các thư mục
 Đồ án này được thực hiện bởi **Nhóm 11** - Lớp XLAS - Xử lý ảnh số.
 
 ### Giảng viên hướng dẫn
-- **TS. ...** - Khoa ...
+- **ThS. Võ Lê Phúc Hậu** - Khoa CNTT
 
 ---
 
 ## Liên hệ
 
-Mọi thắc mắc về project, vui lòng liên hệ qua GitHub Issues.
+Mọi thắc mắc về project, vui lòng liên hệ qua SĐT: 0948843367.
 
 ---
 
